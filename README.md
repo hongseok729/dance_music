@@ -97,3 +97,7 @@ final_output.mp4	음악과 영상이 합쳐진 결과물
 제작자
 GitHub: hongseok729
 Repository: dance_music
+
+출처
+https://www.instagram.com/ssxnng_xo?igsh=eHpvbm1mcmwzaTk5  (친구 동생 영상 지원)
+  
