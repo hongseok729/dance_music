@@ -1,3 +1,5 @@
+[YouTube 데모 영상 보기](https://youtube.com/shorts/lEN_xhx0zMY?feature=share)
+
 #  Pose-to-Music: 춤에서 음악을 만드는 AI 프로젝트
 
 춤 영상을 입력하면, AI가 **관절(Pose)을 분석**하고 **움직임에 어울리는 음악**을 직접 생성합니다.  
@@ -99,5 +101,5 @@ GitHub: hongseok729
 Repository: dance_music
 
 출처
-https://www.instagram.com/ssxnng_xo?igsh=eHpvbm1mcmwzaTk5  (친구 동생 영상 지원)
+https://www.instagram.com/ssxnng_xo?igsh=eHpvbm1mcmwzaTk5  (원본 데이터 -> 친구 동생 영상 지원)
   
