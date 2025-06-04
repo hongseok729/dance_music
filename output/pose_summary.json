@@ -1,0 +1,10 @@
+{
+  "bpm": 1788,
+  "dominant_joints": [
+    "right_hand",
+    "left_foot"
+  ],
+  "motion_density": "moderate",
+  "tempo_pattern": "variable",
+  "style": "powerful, jumping"
+}
